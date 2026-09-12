@@ -40,7 +40,7 @@ This project helped me strengthen my understanding of:
 
 ## Live Demo
 
-Live demo coming soon.
+[View the Live Application](https://ajford3866.github.io/dragon-ball-api/)
 
 ## Source Code
 
